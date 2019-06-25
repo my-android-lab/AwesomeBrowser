@@ -117,7 +117,7 @@ class MainActivity : AppCompatActivity() {
 
   private fun setupGeckoView() {
     geckoView = findViewById(R.id.geckoview)
-    val runtime = GeckoRuntime.create(this)
+    val runtime = GeckoRuntime.getDefault(applicationContext)
 
     geckoSession.open(runtime)
     geckoView.setSession(geckoSession)

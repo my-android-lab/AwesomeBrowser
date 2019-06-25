@@ -1,4 +1,8 @@
 # AwesomeBrowser
+
+![](./art/result01.png)
+![](./art/result02.png)
+
 AwesomeBrowser is a small web browser to showcase the power of GeckoView.It allows normal browsing, and includes [tracking protection](https://support.mozilla.org/en-US/kb/content-blocking) enabled by default.
 
 <img src="https://github.com/Amejia481/AwesomeBrowser/raw/master/demo.gif" height="600em" />

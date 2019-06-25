@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: org.mozilla.geckoview:geckoview-nightly-arm64-v8a:67.0.20190208095514@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/geckoview-nightly-arm64-v8a-67.0.20190208095514.aar/4cb5b3841dbf0a4b5d4a744536b2161a/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/geckoview-nightly-arm64-v8a-67.0.20190208095514.aar/4cb5b3841dbf0a4b5d4a744536b2161a/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/geckoview-nightly-arm64-v8a-67.0.20190208095514.aar/4cb5b3841dbf0a4b5d4a744536b2161a/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mozilla.geckoview/geckoview-nightly-arm64-v8a/67.0.20190208095514/13fbdde93584517dbc402fa5e6c4c90ef0aec6b1/geckoview-nightly-arm64-v8a-67.0.20190208095514-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
